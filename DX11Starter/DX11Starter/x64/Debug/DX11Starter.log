@@ -1,0 +1,9 @@
+﻿  compilation object save succeeded; see C:\Users\Corinne Green\Desktop\DX11Starter\x64\Debug\PixelShader.cso
+  Game.cpp
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(75): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\corinne green\desktop\dx11starter\dx11starter\game.cpp(369): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DX11Starter.vcxproj -> C:\Users\Corinne Green\Desktop\DX11Starter\x64\Debug\DX11Starter.exe
